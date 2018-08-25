@@ -79,16 +79,5 @@ def whp_status(df, shift_abc):
     return(status, whp)
 
 
-
-
-
-
-
-
-
-
-
-
-
 if __name__ == '__main__':
     main()
